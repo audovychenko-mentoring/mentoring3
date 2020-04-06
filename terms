@@ -7,7 +7,7 @@ revert
 reset
 original
 hard reser
-HEAD - link to last commit of your current branch
+HEAD
 index
 
-change one more time
+change
